@@ -1,5 +1,5 @@
 ## Hi there,I'm Kailash s prem👋
--🔭 I’m currently working on studying things to create models
+-🔭 I’m currently working on studying regression to create better models
 
 
 -🌱 I’m currently learning machine learning
