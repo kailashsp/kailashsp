@@ -4,6 +4,7 @@
 
 -🌱 I’m currently learning machine learning
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=54166371)
 <!--
 **kailashsp/kailashsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
