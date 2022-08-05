@@ -1,7 +1,7 @@
 ## Hi there Kailash s prem👋
-🔭 I’m currently working on studying things to create models
-🌱 I’m currently learning machine learning
- 📫 How to reach me: ...
+-🔭 I’m currently working on studying things to create models
+-🌱 I’m currently learning machine learning
+- 📫 How to reach me: ...
 <!--
 **kailashsp/kailashsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
