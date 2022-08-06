@@ -45,7 +45,7 @@ Python   10 mins         ██████████████████�
 ```
 
 <!--END_SECTION:waka-->
-Turn up the music and code all the away
+Turn up the music and code away
 
 
 
