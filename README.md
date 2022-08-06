@@ -8,13 +8,10 @@
 -🌱 I’m currently learning machine learning
 
 
-
-
-- 
 <div id="badges">
-  <h1
+  <h2
       >📫 How to reach me: 
-  </h1>
+  </h2>
   <a href="https://www.linkedin.com/in/kailash-prem">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
