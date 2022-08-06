@@ -25,7 +25,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=54166371)
+<img src="https://komarev.com/ghpvc/?username=your-github-kailashsp&style=flat-square&color=blue" alt=""/>
 
 
 <p align=”center”>
