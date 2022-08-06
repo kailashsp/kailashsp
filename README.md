@@ -48,7 +48,7 @@ Python   10 mins         ██████████████████�
 
 
 Turn up the music and code all the away
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=21fgfw6vxh424fhrzdvyewaoq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default&bar_color=b14e4e&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
