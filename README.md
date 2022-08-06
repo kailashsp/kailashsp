@@ -1,5 +1,5 @@
 <h2>
-  Hi there,I'm Kailash s prem
+  Hi there,I'm Kailash 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 -🔭 I’m currently working on studying regression to create better models
