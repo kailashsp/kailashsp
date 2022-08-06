@@ -3,9 +3,8 @@
 
 
 -🌱 I’m currently learning machine learning
-
-
-<a href=”[https://www.linkedin.com/in/kailash-prem/](https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659757353~hmac=a772ff307559ae8e5e31d6f8691ed8b5)"><img align=”left” src=”https://raw.githubusercontent.com/kailashsp/kailashsp/main/images/linkedin.svg" alt=”Kailash | LinkedIn” width=”21px”/></a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=54166371)
 
