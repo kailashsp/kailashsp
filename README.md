@@ -46,9 +46,10 @@ Python   10 mins         ██████████████████�
 
 <!--END_SECTION:waka-->
 
-
+<h2>
 Turn up the music and code all the away
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+</h2>
 
 
 
