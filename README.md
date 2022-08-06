@@ -11,12 +11,12 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/kailash-prem">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a>
-  <a href="your-youtube-URl">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://mobile.twitter.com/Kailashsprem">
-  <img src="https://img.shields.io/badge/Discord----blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/428178624534020097">
+  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
