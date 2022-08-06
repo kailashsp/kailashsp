@@ -10,8 +10,11 @@
 
 
 
-- 📫 How to reach me: 
+- 
 <div id="badges">
+  <h1
+      >📫 How to reach me: 
+  </h1>
   <a href="https://www.linkedin.com/in/kailash-prem">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
