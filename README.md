@@ -8,6 +8,7 @@
 -🌱 I’m currently learning machine learning
 
 
+- 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kailash-prem">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -55,7 +56,7 @@ Python   10 mins         ██████████████████�
 Here are some ideas to get you started:
 
 - 
-- 📫 How to reach me: ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
