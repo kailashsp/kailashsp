@@ -50,7 +50,7 @@ Turn up the music and code away
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 
@@ -58,6 +58,7 @@ Turn up the music and code away
 
 <!--
 **kailashsp/kailashsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 Here are some ideas to get you started:
 
