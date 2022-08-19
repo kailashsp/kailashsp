@@ -55,14 +55,7 @@
 Here are some ideas to get you started:
 
 - 
-<!--START_SECTION:waka-->
 
-```text
-Python   1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.66 %
-Other    1 hr 3 mins     ████████████▒░░░░░░░░░░░░   49.34 %
-```
-
-<!--END_SECTION:waka-->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
