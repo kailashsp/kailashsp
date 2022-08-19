@@ -46,7 +46,9 @@ Other    1 hr 3 mins     ████████████▒░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-Turn up the music and code away
+
+[![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
+
 
 
 
