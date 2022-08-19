@@ -33,19 +33,9 @@
 <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kailashsp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsp&layout=compact)](https://github.com/kailashsp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsp&layout=compact)](https://github.com/kailahsp/github-readme-stats)
 </p>
 
-
-
-<!--START_SECTION:waka-->
-
-```text
-Python   1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.66 %
-Other    1 hr 3 mins     ████████████▒░░░░░░░░░░░░   49.34 %
-```
-
-<!--END_SECTION:waka-->
 
 [![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
 
@@ -65,7 +55,14 @@ Other    1 hr 3 mins     ████████████▒░░░░░�
 Here are some ideas to get you started:
 
 - 
+<!--START_SECTION:waka-->
 
+```text
+Python   1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.66 %
+Other    1 hr 3 mins     ████████████▒░░░░░░░░░░░░   49.34 %
+```
+
+<!--END_SECTION:waka-->
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
