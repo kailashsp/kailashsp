@@ -35,8 +35,6 @@
 <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kailashsp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsp&layout=compact)](https://github.com/kailahsp/github-readme-stats)
-
 
 
 [![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
