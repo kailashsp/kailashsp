@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
 
 
-[![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
+# [![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
 
 
 
