@@ -32,8 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
 
 
-# [![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
-
 
 
 
@@ -44,6 +42,9 @@
 
 
 <!--
+
+[![kailashsp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kailashsp)](https://github.com/kailashsp/github-readme-stats)
+
 **kailashsp/kailashsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fgfw6vxh424fhrzdvyewaoq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
