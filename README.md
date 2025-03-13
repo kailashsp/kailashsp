@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 -🔭 I’m currently working on developing network of agents and voice to voice agents
+
 -🌱 I’m currently learning to build end to end ML pipelines and setting up LLM workflows
 
 
